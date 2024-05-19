@@ -1,0 +1,10 @@
+.heading-txt{
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    color: aliceblue;
+  }
+  .img{
+    width: 100%;
+    height: 400px;
+  }
